@@ -1,4 +1,4 @@
-<script setup>
+測試自動部署<script setup>
 import { computed, onMounted, ref, watch } from 'vue'
 
 const initialProducts = [
